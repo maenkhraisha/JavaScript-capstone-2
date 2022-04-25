@@ -1,5 +1,6 @@
+/* eslint-disable no-undef */
 import { getAllComments, addComment } from './create_comments.js';
-import { commentCounter } from './counters.js';
+// import { commentCounter } from './counters.js';
 
 const url2 = 'https://themealdb.com/api/json/v1/1/categories.php';
 
