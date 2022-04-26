@@ -19,12 +19,3 @@ export const getAllLikes = async () => {
   const dataLikes = await allLikes.json();
   return dataLikes;
 };
-
-export const displayLikes = async (id, p) => {
-  const likeAdd = await getAllLikes();
-  likeAdd.forEach((like) => {
-    if (like.item_id === id) {
-      p.innerHTML = `${like.likes}`;
-    }
-  });
-};
