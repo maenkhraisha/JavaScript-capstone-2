@@ -51,7 +51,9 @@ span.eats {
   padding-bottom: 5%;
 }
 
-h1, h2, p {
+h1,
+h2,
+p {
   color: #726969;
   font-size: 20px;
 }
@@ -115,7 +117,8 @@ h2 {
   height: 30%;
 }
 
-.comment-btn, .reservation-btn {
+.comment-btn,
+.reservation-btn {
   margin-top: 4%;
   width: 64%;
   padding: 11px;
