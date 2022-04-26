@@ -1,4 +1,4 @@
-import './style.css';
+import '../style.css';
 // import { commentCounter } from './Module/counters.js';
 import displayPopup from './Module/display_popup.js';
 import display from './Module/display_home.js';
