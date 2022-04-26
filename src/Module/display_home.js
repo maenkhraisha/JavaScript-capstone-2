@@ -37,6 +37,7 @@ const display = async () => {
   
       </div>
       <button class="comment-btn" id=${element.idCategory}>Comment</button>
+      <button class="reservation-btn" id=${element.idCategory}>Reservation</button>
       </div>`;
 
     show.appendChild(meal);

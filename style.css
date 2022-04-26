@@ -88,6 +88,10 @@ h2 {
   cursor: pointer;
 }
 
+.fa.fa-thumbs-up:hover {
+  transform: scale(1.2);
+}
+
 .meal {
   padding: 10px;
   width: 90%;
@@ -113,7 +117,9 @@ h2 {
   height: 30%;
 }
 
-.comment-btn {
+.comment-btn,
+.reservation-btn {
+  margin-top: 2%;
   width: 78%;
   padding: 17px;
   cursor: pointer;
@@ -199,7 +205,7 @@ p#commentCount {
 
 #itemsCount {
   margin-left: 45px;
-  color: #ffff;
+  color: rgb(253, 252, 252);
   text-align: center;
   padding-bottom: 5%;
 }
@@ -268,10 +274,11 @@ footer {
     margin-left: 16%;
   }
 
-  .comment-btn {
+  .comment-btn,
+  .reservation-btn {
     width: 75%;
     margin-left: 15%;
-    padding: 26px;
+    padding: 20px;
   }
 
   .display {
