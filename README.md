@@ -17,10 +17,10 @@
 
 ## DEMO
 
-[LIVE DEMO LINK]()
+[LIVE DEMO LINK](https://maenkhraisha.github.io/JavaScript-capstone-2/)
 
 ## Video Description
-- https:https://drive.google.com/file/d/1760ObrkTvWEZAX55eB6whAiH3daSCS2x/view?usp=sharing
+- https://drive.google.com/file/d/1z7djEMoRGty2ed6CYeEegKiq8YfQewDc/view?usp=sharing
 
 ## Getting Started
 
@@ -37,9 +37,9 @@ To get a local copy up and running follow these setup steps below.
 
 👤 **Authors**
 
-- GitHub: [Chime Emelie](https://github.com/collinsmezie), [Ekene Emeka](https://github.com/ekenecf), and [@githubhandle](https://github.com/maen1980)
-- Twitter: [collinsmezie](https://twitter.com/collinsmezie), [Ekene Emeka](https://twitter.com/ekene070) and [@twitterhandle](https://twitter.com/AlkhryshaM)
-- LinkedIn: [collins mezie](https://www.linkedin.com/in/collinsmezie/), [Ekene Emeka](https://www.linkedin.com/mwlite/in/ekene-nwachukwu-1b9024153) and [LinkedIn](https://www.linkedin.com/in/ma-en-mohammad-303930100/)
+- GitHub: [Chime Emelie](https://github.com/collinsmezie), [Ekene Emeka](https://github.com/ekenecf), and [Maen Khraisha](https://github.com/maen1980)
+- Twitter: [collinsmezie](https://twitter.com/collinsmezie), [Ekene Emeka](https://twitter.com/ekene070) and [Maen Khraisha](https://twitter.com/AlkhryshaM)
+- LinkedIn: [collins mezie](https://www.linkedin.com/in/collinsmezie/), [Ekene Emeka](https://www.linkedin.com/mwlite/in/ekene-nwachukwu-1b9024153) and [Maen Khraisha](https://www.linkedin.com/in/ma-en-mohammad-303930100/)
 
 
 

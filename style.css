@@ -168,7 +168,9 @@ button {
   color: #ffff;
 }
 
-#apicomment {
+#apicomment,
+#apireservation,
+p#reservationCount {
   margin: auto;
   width: fit-content;
 }
@@ -233,7 +235,9 @@ p#beef.likeShow {
   font-size: 15px;
 }
 
-#apicomment p {
+#apicomment p,
+#apireservation p,
+p#reservationCount {
   color: #ffff;
 }
 
