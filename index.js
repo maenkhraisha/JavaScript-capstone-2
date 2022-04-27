@@ -1,4 +1,5 @@
 import './style.css';
+import './jumpy.gif';
 import displayPopup from './src/Module/display_popup.js';
 import displayReservation from './src/Module/display_popup_reservation.js';
 import display from './src/Module/display_home.js';
