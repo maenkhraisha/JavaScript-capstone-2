@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maenkhraisha/JavaScipt-capstone-2.git"
+    "url": "git+https://github.com/maenkhraisha/JavaScript-capstone-2.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/maenkhraisha/JavaScipt-capstone-2/issues"
+    "url": "https://github.com/maenkhraisha/JavaScript-capstone-2/issues"
   },
-  "homepage": "https://github.com/maenkhraisha/JavaScipt-capstone-2#readme",
+  "homepage": "https://github.com/maenkhraisha/JavaScript-capstone-2#readme",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "css-loader": "^6.7.1",
